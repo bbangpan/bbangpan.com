@@ -1,4 +1,5 @@
 /* Originally posted on www.bbangpan.com
+
    Program Description: IR send test(olleh TV turn on/off)DHT22 sensor test code
    Needed library : IRremote
    Tested on : Arduino 1.0.6, Arduino UNO R3, IR LED

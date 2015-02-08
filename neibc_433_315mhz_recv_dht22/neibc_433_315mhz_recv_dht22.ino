@@ -1,7 +1,8 @@
 /* Originally posted on www.bbangpan.com
-   Program Description: 315Mhz receiver(MX-RM-5V, MX-05V) test code (for dht22 transmit)
+
+   Program Description: 433/315Mhz receiver(XY-MK-5V) test code (for dht22 transmit)
    Needed library : VirtualWire http://www.pjrc.com/teensy/td_libs_VirtualWire.html
-   DataPin : 11 to 315Mhz receiver DATA
+   DataPin : 11 to 433/315Mhz receiver DATA
    Tested on : Arduino 1.0.6, Arduino UNO R3, VirtualWire
    
    Inspired by http://www.buildcircuit.com/how-to-use-rf-module-with-arduino/

@@ -1,7 +1,8 @@
 /* Originally posted on www.bbangpan.com
-   Program Description: 315Mhz transmitter(FS1000A or MX-FS-03V) test code
+
+   Program Description: 433/315Mhz transmitter(FS1000A or XY-FS) test code
    Needed library : VirtualWire  http://www.pjrc.com/teensy/td_libs_VirtualWire.html
-   DataPin : 12 to 315Mhz transmitter DATA(near GND)
+   DataPin : 12 to 433/315Mhz transmitter DATA(near GND)
    Tested on : Arduino 1.0.6, Arduino UNO R3, VirtualWire
 
    Inspired by http://www.buildcircuit.com/how-to-use-rf-module-with-arduino/

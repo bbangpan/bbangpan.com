@@ -1,7 +1,8 @@
 /* Originally posted on www.bbangpan.com
-   Program Description: 315Mhz transmitter(FS1000A or MX-FS-03V) and DHT22 test code
+
+   Program Description: 433/315Mhz transmitter(FS1000A or XY-FS) and DHT22 test code
    Needed library : VirtualWire  http://www.pjrc.com/teensy/td_libs_VirtualWire.html , DHT
-   DataPin : 4 to 315Mhz transmitter DATA(near GND), 9 to DHT22
+   DataPin : 4 to 433/315Mhz transmitter DATA(near GND), 9 to DHT22
    Tested on : Arduino 1.0.6, Arduino UNO R3, VirtualWire, DHT
    
    Inspired by http://www.HobbyComponents.com
