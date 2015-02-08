@@ -4,7 +4,7 @@
    Needed library : U8glib
    Tested on : Arduino 1.0.6, Arduino UNO R3/NANO, OLED 128x64
    
-   Copyright (c) 2015 www.bbangpan.com. All right reserved.
+   Copyright (c) 2015 www.bbangpan.com. All rights reserved.
    This program can be used for any non-commercial purpose freely.   */
    
 #include "U8glib.h"

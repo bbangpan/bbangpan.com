@@ -4,7 +4,7 @@
    Needed library : Servo(Arduino's default library)
    Tested on : Arduino 1.0.6, Arduino UNO R3, Small size servo motor
    
-   Copyright (c) 2015 www.bbangpan.com. All right reserved.
+   Copyright (c) 2015 www.bbangpan.com. All rights reserved.
    This program can be used for any non-commercial purpose freely.   */
 
 #include <Servo.h> 
