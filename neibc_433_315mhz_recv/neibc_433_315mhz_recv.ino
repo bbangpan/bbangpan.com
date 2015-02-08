@@ -1,7 +1,7 @@
 /* Originally posted on www.bbangpan.com
 
    Program Description: 433/315Mhz receiver(XY-MK-5V) test code
-   Needed library : VirtualWire http://www.pjrc.com/teensy/td_libs_VirtualWire.html
+   Needed library : VirtualWire http://www.airspayce.com/mikem/arduino/VirtualWire/index.html
    DataPin : 11 to 433/315Mhz receiver DATA
    Tested on : Arduino 1.0.6, Arduino UNO R3, VirtualWire
    
