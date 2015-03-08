@@ -24,4 +24,4 @@ try:
         for i in range(0,100):
                 blink(23)
 except KeyboardInterrupt:
-    GPIO.cleanup()
+	GPIO.cleanup()
