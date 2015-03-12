@@ -1,7 +1,7 @@
 /* Originally posted on www.bbangpan.com
-   Program Description: HC-06 bluetooth 2.0 test code
+   Program Description: HC-06 bluetooth 2.0 / HM-10 BLE test code
    DataPin : 2,3 to TX, RX of HC-06(cross connection)
-   Tested on : Arduino 1.0.6, Arduino UNO R3, HC-06
+   Tested on : Arduino 1.0.6, Arduino UNO R3, HC-06 or HM-10 BLE
    
    Copyright (c) 2015 www.bbangpan.com. All rights reserved.
    This program can be used for any non-commercial purpose freely.   */
@@ -26,9 +26,7 @@ void loop(){
   
   while (Serial.available()){ // if Serial has input(from serial monitor)
     byte data = Serial.read();
-    if(data == '\n') {
-      data=0;
-    }
+
     BTSerial.write(data); // write it to BT
   }
   
