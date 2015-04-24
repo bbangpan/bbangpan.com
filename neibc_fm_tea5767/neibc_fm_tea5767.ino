@@ -29,11 +29,11 @@ void loop()
   if(Serial.available()) {
     int rc = Serial.read();
     if(rc == '+' && frequency <= 108.0) {
-      frequency += 0.2;
+      frequency += 0.1;
       setFrequency();
       Serial.println(frequency);
     } else if(rc == '-' && frequency >= 88.0) {
-      frequency -= 0.2;
+      frequency -= 0.1;
       setFrequency();
       Serial.println(frequency);
     } 
