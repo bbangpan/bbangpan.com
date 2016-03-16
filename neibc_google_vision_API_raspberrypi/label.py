@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # From google sample codes
 # modified by bbangpan.com
+#
+# recommended package installation:
+# $ sudo apt-get update
+# $ sudo apt-get install python-pip python-requests python-pycurl
+# $ sudo pip install --upgrade pip
+# $ sudo pip install google-api-python-client
+# $ sudo pip install requests
 
 """
     usage> ./face.py <path-to-image>
