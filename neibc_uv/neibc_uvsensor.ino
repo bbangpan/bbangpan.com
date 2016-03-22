@@ -1,6 +1,6 @@
 /* Redistributed by www.bbangpan.com
 
-   Program Description: UB Sensor test
+   Program Description: UV Sensor test
    DataPin : GND->GND, VCC->5V, OUT->A0
    Tested on : Arduino 1.7.4, Arduino UNO R3
    
